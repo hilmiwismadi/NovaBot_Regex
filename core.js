@@ -1,5 +1,18 @@
 // === NovaTix Chatbot - Enhanced with Context Awareness ===
 
+// === Pronoun Reflection Mapping ===
+const pronounReflection = {
+  'saya': 'anda',
+  'anda': 'saya',
+  'kamu': 'saya',
+  'aku': 'anda',
+  'kita': 'kami',
+  'kami': 'kita',
+  'mereka': 'mereka', // stays same
+  'dia': 'dia',       // stays same
+  'kalian': 'kami'
+};
+
 // === Context Storage (In-Memory) ===
 let userContext = {
   waitingFor: null,          // 'capacity', 'price', 'pricing-detail'
@@ -136,6 +149,33 @@ const responses = [
     resetContext: true
   }
 ];
+
+// === Pronoun Reflection Function ===
+function applyPronounReflection(text) {
+  // Use placeholder approach to avoid double replacement
+  let reflectedText = text;
+  const placeholders = {};
+  let placeholderCounter = 0;
+  
+  // First pass: replace with unique placeholders
+  for (const [original, reflected] of Object.entries(pronounReflection)) {
+    const escapedOriginal = original.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const regex = new RegExp(`\\b${escapedOriginal}\\b`, 'gi');
+    const placeholder = `__PLACEHOLDER_${placeholderCounter++}__`;
+    
+    reflectedText = reflectedText.replace(regex, (match) => {
+      placeholders[placeholder] = reflected;
+      return placeholder;
+    });
+  }
+  
+  // Second pass: replace placeholders with actual reflections
+  for (const [placeholder, replacement] of Object.entries(placeholders)) {
+    reflectedText = reflectedText.replace(new RegExp(placeholder, 'g'), replacement);
+  }
+  
+  return reflectedText;
+}
 
 // === Enhanced Number Parser ===
 function parseNumber(input) {
@@ -333,10 +373,12 @@ function getResponse(input) {
             answer = answer.replace(`$${i}`, match[i]);
           }
         }
-        return answer;
+        // Apply pronoun reflection to final answer
+        return applyPronounReflection(answer);
       }
       
-      return response.answer;
+      // Apply pronoun reflection to response
+      return applyPronounReflection(response.answer);
     }
   }
   
@@ -360,5 +402,6 @@ module.exports = {
   getAdvancedResponse,
   responses,
   calculatePricing,
-  getContext // untuk debugging
+  getContext, // untuk debugging
+  applyPronounReflection // untuk testing
 };

@@ -1,0 +1,19 @@
+node_modules/
+CLAUDE.md
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# WhatsApp session data
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Logs
+logs/
+*.log
+
+# Screenshots and demo materials (optional)
+demo/
+screenshots/
