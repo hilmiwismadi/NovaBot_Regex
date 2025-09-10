@@ -1,0 +1,17 @@
+[dotenv@17.2.2] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+🚀 Starting NovaBot WhatsApp integration...
+📱 Please wait for QR code generation...
+
+[2025-09-10T10:32:59.270Z] NovaBot WhatsApp bot starting...
+[2025-09-10T10:33:14.124Z] Unhandled rejection at [object Promise]: Error: Protocol error (Network.setUserAgentOverride): Session closed. Most likely the page has been closed.
+Unhandled Rejection at: Promise {
+  <rejected> Error: Protocol error (Network.setUserAgentOverride): Session closed. Most likely the page has been closed.
+      at CDPSessionImpl.send (/home/bayanadmin/novabot/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:316:35)
+      at NetworkManager.setUserAgent (/home/bayanadmin/novabot/node_modules/puppeteer-core/lib/cjs/puppeteer/common/NetworkManager.js:152:73)
+      at CDPPage.setUserAgent (/home/bayanadmin/novabot/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:949:88)
+      at Client.initialize (/home/bayanadmin/novabot/node_modules/whatsapp-web.js/src/Client.js:317:20)
+} reason: Error: Protocol error (Network.setUserAgentOverride): Session closed. Most likely the page has been closed.
+    at CDPSessionImpl.send (/home/bayanadmin/novabot/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Connection.js:316:35)
+    at NetworkManager.setUserAgent (/home/bayanadmin/novabot/node_modules/puppeteer-core/lib/cjs/puppeteer/common/NetworkManager.js:152:73)
+    at CDPPage.setUserAgent (/home/bayanadmin/novabot/node_modules/puppeteer-core/lib/cjs/puppeteer/common/Page.js:949:88)
+    at Client.initialize (/home/bayanadmin/novabot/node_modules/whatsapp-web.js/src/Client.js:317:20)

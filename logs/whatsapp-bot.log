@@ -1,0 +1,545 @@
+[2025-09-10T08:31:22.714Z] NovaBot WhatsApp bot starting...
+[2025-09-10T08:32:07.855Z] NovaBot WhatsApp bot starting...
+[2025-09-10T08:32:21.745Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T08:32:59.320Z] Unhandled rejection at [object Promise]: ProtocolError: Protocol error (Runtime.callFunctionOn): Target closed.
+[2025-09-10T08:33:19.519Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T08:33:39.594Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T08:33:40.629Z] NovaBot WhatsApp bot starting...
+[2025-09-10T08:33:59.611Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T08:34:19.621Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T08:34:39.625Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T08:35:50.588Z] Unhandled rejection at [object Promise]: ProtocolError: Protocol error (Runtime.callFunctionOn): Target closed.
+[2025-09-10T08:36:13.472Z] NovaBot WhatsApp bot starting...
+[2025-09-10T08:36:58.571Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T08:37:58.070Z] NovaBot WhatsApp bot starting...
+[2025-09-10T08:38:36.688Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T08:39:28.239Z] WhatsApp authentication successful
+[2025-09-10T08:39:37.573Z] NovaBot WhatsApp client is ready
+[2025-09-10T08:40:08.907Z] Message from Dzaki Wismadi (6281809252706): bagaimana cara atur event
+[2025-09-10T08:40:09.400Z] Bot replied to Dzaki Wismadi: 🎛️ *Setup & Edit Events (EO):*
+1️⃣ Login dengan akun EO.
+2️⃣ Buka tab *Events* di sidebar.
+3️⃣ Pili...
+[2025-09-10T08:40:10.503Z] Sent message to SolacioAI: 🎛️ *Setup & Edit Events (EO):*
+1️⃣ Login dengan akun EO.
+2️⃣ Buka tab *Events* di sidebar.
+3️⃣ Pili...
+[2025-09-10T08:40:30.577Z] Message from Dzaki Wismadi (6281809252706): kalau cara pesan tiket ?
+[2025-09-10T08:40:31.474Z] Bot replied to Dzaki Wismadi: 🛒 *Cara Pembelian Tiket:*
+1️⃣ Masuk dengan akun Gmail saya.
+2️⃣ Buka detail event dan pilih kursi.
+...
+[2025-09-10T08:40:31.618Z] Sent message to SolacioAI: 🛒 *Cara Pembelian Tiket:*
+1️⃣ Masuk dengan akun Gmail saya.
+2️⃣ Buka detail event dan pilih kursi.
+...
+[2025-09-10T08:41:29.265Z] Message from fadhyl arham (6282394708281): Pemerintah memang harus semakin serius mengurusi negara, jika tra mampu yah solusinya mundur!!!
+[2025-09-10T08:41:29.445Z] Bot replied to fadhyl arham: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T08:41:29.630Z] Sent message to SolacioAI: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T08:49:48.347Z] Message from Dzaki Wismadi (6281809252706): cokk, kmaren aku buat scan QR code pertamuda pake qr yg bisa expired @6285601260295
+[2025-09-10T08:49:49.408Z] Sent message to NovaBot: 📲 *E-Ticket Verification*: Pada hari acara, EO dapat menggunakan sistem scanner berbasis QR code un...
+[2025-09-10T08:49:49.454Z] Bot replied to Dzaki Wismadi: 📲 *E-Ticket Verification*: Pada hari acara, EO dapat menggunakan sistem scanner berbasis QR code un...
+[2025-09-10T08:51:39.476Z] Message from Dzaki Wismadi (6281809252706): eh diperpanjang deng
+[2025-09-10T08:51:40.188Z] Bot replied to Dzaki Wismadi: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T08:51:40.321Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T08:51:41.393Z] Message from Dzaki Wismadi (6281809252706): otw ganti PPT
+[2025-09-10T08:51:41.989Z] Bot replied to Dzaki Wismadi: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T08:51:42.150Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T08:52:25.218Z] Message from Angga Nugroho (6282137444795): kalau dari aku mungkin lebih ke fungsinya ada NIK disitu sih. 
+
+Menurutku kemungkinan ada beberapa opsi kenapa kita minta NIK : 
+
+1. Kita butuh data penonton jika ada kerusakan untuk pertanggungjawaban
+2. NIK digunakan untuk verifikasi supaya tidak ada pembelian random dari orang yang tidak bertanggung jawab
+3. NIK digunakan sebagai unique identifier untuk limit pembelian
+4. NIK *mungkin* kita butuhkan untuk tau siapa saja yang datang ke konser tertentu
+
+Kemarin ada 2 aspek yang aku liat perlu dipertimbangkan juga delin, yaitu : 
+
+1. Kita (ROJ) punya kebutuhan dan syarat yang spesifik terkait data dll, yang mungkin berbeda dengan event organizer lain
+2. Kita membuat platform tiket yang sifatnya global (tidak hanya untuk ROJ) yang tentu membutuhkan kebutuhan global
+
+Dari 2 aspek diatas, kayanya kita perlu mencari dimana semua aspeknya terpenuhi ketika kita mau membuat platform yang sifatnya komersil dan global.
+[2025-09-10T08:52:25.739Z] Bot replied to Angga Nugroho: 📲 *E-Ticket Verification*: Pada hari acara, EO dapat menggunakan sistem scanner berbasis QR code un...
+[2025-09-10T08:52:25.908Z] Sent message to NovaBot: 📲 *E-Ticket Verification*: Pada hari acara, EO dapat menggunakan sistem scanner berbasis QR code un...
+[2025-09-10T08:52:34.578Z] Message from Zhak (6281717407674): kok bacod
+[2025-09-10T08:52:35.139Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T08:52:35.251Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T08:52:40.511Z] Message from Zhak (6281717407674): p
+[2025-09-10T08:52:41.006Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T08:52:41.161Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T08:53:09.037Z] Message from Zhak (6281717407674): maaf gais botnya wkwk
+[2025-09-10T08:53:09.507Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T08:53:09.878Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T08:54:20.394Z] Message from Dzaki Wismadi (6281809252706): https://www.qrcode-monkey.com/
+[2025-09-10T08:54:20.888Z] Bot replied to Dzaki Wismadi: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T08:54:21.040Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T09:48:18.190Z] Message from Giga Hidjrika Aura Adkhy (6281227360323): At that stage in life di mana ke Atakrib liat-liat kulkas selama 2 jam
+[2025-09-10T09:48:18.593Z] Bot replied to Giga Hidjrika Aura Adkhy: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T09:48:18.728Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:06:37.627Z] Message from Kai Fadhilah (6285211027691): Es teh 🤤
+[2025-09-10T10:06:37.755Z] Bot replied to Kai Fadhilah: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:06:37.943Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:14:27.719Z] Message from Zhak (6281717407674): bjir tau gitu join
+[2025-09-10T10:14:29.062Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:14:29.096Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:28:35.259Z] Message from Sakticahya (6285601260295): Yahh
+[2025-09-10T10:28:35.836Z] Bot replied to Sakticahya: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:28:36.104Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:28:38.208Z] Message from Sakticahya (6285601260295): Bisa reupload ga
+[2025-09-10T10:28:38.691Z] Bot replied to Sakticahya: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:28:38.831Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:28:50.853Z] Message from Sakticahya (6285601260295): Fitur novatix
+[2025-09-10T10:28:51.365Z] Bot replied to Sakticahya: NovaTix adalah platform ticketing yang mempermudah penyelenggara acara (EO), terutama untuk venue de...
+[2025-09-10T10:28:51.512Z] Sent message to NovaBot: NovaTix adalah platform ticketing yang mempermudah penyelenggara acara (EO), terutama untuk venue de...
+[2025-09-10T10:28:59.361Z] Message from Sakticahya (6285601260295): Apa fiturnya
+[2025-09-10T10:29:00.537Z] Bot replied to Sakticahya: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:29:00.690Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:29:26.111Z] Message from Zhak (6281717407674): lawak akwkakw
+[2025-09-10T10:29:26.575Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:29:26.729Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:29:32.188Z] Message from Zhak (6281717407674): sek tk kick sek
+[2025-09-10T10:29:33.264Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:29:33.502Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:31:19.056Z] Message from Sakticahya (6285601260295): Bjir vibe coding competition
+[2025-09-10T10:31:19.850Z] Bot replied to Sakticahya: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:31:19.962Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:32:14.551Z] Message from Zhak (6281717407674): sorry yages, anak sy nakal
+[2025-09-10T10:32:15.131Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:32:15.509Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:32:39.695Z] Message from Fabian (6282232018289): jirr iya ya
+[2025-09-10T10:32:40.276Z] Bot replied to Fabian: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:32:40.389Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T10:32:59.270Z] NovaBot WhatsApp bot starting...
+[2025-09-10T10:33:14.124Z] Unhandled rejection at [object Promise]: Error: Protocol error (Network.setUserAgentOverride): Session closed. Most likely the page has been closed.
+[2025-09-10T10:37:19.946Z] NovaBot WhatsApp bot starting...
+[2025-09-10T10:37:24.543Z] Unhandled rejection at [object Promise]: Error: Protocol error (Network.setUserAgentOverride): Session closed. Most likely the page has been closed.
+[2025-09-10T10:37:35.328Z] NovaBot WhatsApp bot starting...
+[2025-09-10T10:37:38.749Z] Unhandled rejection at [object Promise]: Error: Protocol error (Network.setUserAgentOverride): Session closed. Most likely the page has been closed.
+[2025-09-10T11:36:24.410Z] NovaBot WhatsApp bot starting...
+[2025-09-10T11:36:31.452Z] Unhandled rejection at [object Promise]: Error: Protocol error (Network.setUserAgentOverride): Session closed. Most likely the page has been closed.
+[2025-09-10T11:37:17.808Z] NovaBot WhatsApp bot starting...
+[2025-09-10T11:37:21.524Z] Unhandled rejection at [object Promise]: Error: Protocol error (Network.setUserAgentOverride): Session closed. Most likely the page has been closed.
+[2025-09-10T11:38:07.338Z] NovaBot WhatsApp bot starting...
+[2025-09-10T11:38:48.952Z] NovaBot WhatsApp bot starting...
+[2025-09-10T11:39:36.640Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T11:40:35.766Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T11:40:55.770Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T11:41:15.784Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T11:41:35.796Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T11:41:55.806Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T11:43:07.647Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T11:44:07.657Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T11:44:27.664Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T11:44:47.668Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T11:44:59.603Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T11:45:30.402Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2025-09-10T11:46:49.484Z] WhatsApp authentication successful
+[2025-09-10T11:46:58.092Z] NovaBot WhatsApp client is ready
+[2025-09-10T11:48:14.005Z] Message from Zhak (6281717407674): tes
+[2025-09-10T11:48:15.262Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T11:48:15.355Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T11:50:03.260Z] Message from Zhak (6281717407674): tes respon ga
+[2025-09-10T11:50:03.861Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T11:50:03.970Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T11:51:07.406Z] Message from Zhak (6281717407674): tes
+[2025-09-10T11:51:07.880Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T11:51:07.980Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T11:51:32.389Z] Message from Zhak (6281717407674): apa ini
+[2025-09-10T11:51:32.821Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T11:51:32.955Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T11:51:38.053Z] Message from Zhak (6281717407674): apa itu fitur novatix
+[2025-09-10T11:51:38.559Z] Bot replied to Zhak: NovaTix adalah platform ticketing yang mempermudah penyelenggara acara (EO), terutama untuk venue de...
+[2025-09-10T11:51:38.659Z] Sent message to NovaBot: NovaTix adalah platform ticketing yang mempermudah penyelenggara acara (EO), terutama untuk venue de...
+[2025-09-10T11:51:44.833Z] Message from Zhak (6281717407674): harganya berapa
+[2025-09-10T11:51:45.741Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T11:51:45.782Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T11:51:50.061Z] Message from Zhak (6281717407674): pricing
+[2025-09-10T11:51:50.532Z] Bot replied to Zhak: kita menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T11:51:50.650Z] Sent message to NovaBot: kita menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T12:09:31.697Z] NovaBot WhatsApp bot starting...
+[2025-09-10T12:10:26.692Z] WhatsApp authentication successful
+[2025-09-10T12:10:32.242Z] NovaBot WhatsApp client is ready
+[2025-09-10T12:10:32.747Z] Message from Zhak (6281717407674): berapa harga tiket acara saya
+[2025-09-10T12:10:33.429Z] Sent message to 62895413313375: kita menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T12:10:33.891Z] Bot replied to Zhak: kita menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T12:10:36.842Z] Message from Zhak (6281717407674): hai
+[2025-09-10T12:10:39.728Z] Sent message to 62895413313375: Halo! anda NovaBot 🤖 dari NovaTix. kita siap membantu saya mengelola event dengan sistem ticketing ...
+[2025-09-10T12:10:39.869Z] Bot replied to Zhak: Halo! anda NovaBot 🤖 dari NovaTix. kita siap membantu saya mengelola event dengan sistem ticketing ...
+[2025-09-10T12:10:41.008Z] Message from Zhak (6281717407674): HAI
+[2025-09-10T12:10:41.955Z] Bot replied to Zhak: Halo! anda NovaBot 🤖 dari NovaTix. kita siap membantu saya mengelola event dengan sistem ticketing ...
+[2025-09-10T12:10:42.058Z] Sent message to 62895413313375: Halo! anda NovaBot 🤖 dari NovaTix. kita siap membantu saya mengelola event dengan sistem ticketing ...
+[2025-09-10T12:11:15.482Z] Message from Zhak (6281717407674): Saya ingin membuat event
+[2025-09-10T12:11:15.948Z] Bot replied to Zhak: maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T12:11:16.060Z] Sent message to 62895413313375: maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T12:11:21.803Z] Message from Zhak (6281717407674): apa itu fitur novatix
+[2025-09-10T12:11:22.265Z] Bot replied to Zhak: NovaTix adalah platform ticketing yang mempermudah penyelenggara acara (EO), terutama untuk venue de...
+[2025-09-10T12:11:22.383Z] Sent message to 62895413313375: NovaTix adalah platform ticketing yang mempermudah penyelenggara acara (EO), terutama untuk venue de...
+[2025-09-10T12:11:29.129Z] Message from Zhak (6281717407674): apa saja harga dan pricingnya
+[2025-09-10T12:11:29.575Z] Bot replied to Zhak: kita menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T12:11:29.714Z] Sent message to 62895413313375: kita menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T12:11:42.287Z] Message from Zhak (6281717407674): berapa harga tiket saya?
+[2025-09-10T12:11:42.696Z] Bot replied to Zhak: kita menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T12:11:42.814Z] Sent message to 62895413313375: kita menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T12:11:56.168Z] Message from Zhak (6281717407674): apa saja detail layanannya?
+[2025-09-10T12:11:56.649Z] Bot replied to Zhak: maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T12:11:56.759Z] Sent message to 62895413313375: maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T12:12:03.692Z] Message from Zhak (6281717407674): detail layanan
+[2025-09-10T12:12:04.167Z] Bot replied to Zhak: Fitur utama NovaTix meliputi:
+1️⃣ Pemilihan tiket berbasis kursi (seat-based) yang intuitif.
+2️⃣ Int...
+[2025-09-10T12:12:04.290Z] Sent message to 62895413313375: Fitur utama NovaTix meliputi:
+1️⃣ Pemilihan tiket berbasis kursi (seat-based) yang intuitif.
+2️⃣ Int...
+[2025-09-10T12:15:01.844Z] NovaBot WhatsApp bot starting...
+[2025-09-10T12:15:15.849Z] NovaBot WhatsApp bot starting...
+[2025-09-10T12:16:13.499Z] WhatsApp authentication successful
+[2025-09-10T12:16:25.483Z] NovaBot WhatsApp client is ready
+[2025-09-10T12:17:46.770Z] Message from Zhak (6281717407674): p
+[2025-09-10T12:17:49.141Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T12:17:49.259Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T12:17:59.479Z] Message from Zhak (6281717407674): fitur novatix
+[2025-09-10T12:17:59.999Z] Bot replied to Zhak: NovaTix adalah platform ticketing yang mempermudah penyelenggara acara (EO), terutama untuk venue de...
+[2025-09-10T12:18:00.092Z] Sent message to NovaBot: NovaTix adalah platform ticketing yang mempermudah penyelenggara acara (EO), terutama untuk venue de...
+[2025-09-10T12:18:06.708Z] Message from Zhak (6281717407674): detail layanan
+[2025-09-10T12:18:07.338Z] Bot replied to Zhak: Fitur utama NovaTix meliputi:
+1️⃣ Pemilihan tiket berbasis kursi (seat-based) yang intuitif.
+2️⃣ Int...
+[2025-09-10T12:18:07.403Z] Sent message to NovaBot: Fitur utama NovaTix meliputi:
+1️⃣ Pemilihan tiket berbasis kursi (seat-based) yang intuitif.
+2️⃣ Int...
+[2025-09-10T12:19:30.422Z] Unhandled rejection at [object Promise]: ProtocolError: Protocol error (Runtime.callFunctionOn): Target closed.
+[2025-09-10T12:19:41.906Z] NovaBot WhatsApp bot starting...
+[2025-09-10T12:19:45.716Z] Unhandled rejection at [object Promise]: Error: Navigation failed because browser has disconnected!
+[2025-09-10T12:19:58.190Z] NovaBot WhatsApp bot starting...
+[2025-09-10T12:19:59.270Z] NovaBot WhatsApp bot starting...
+[2025-09-10T12:20:52.535Z] WhatsApp authentication successful
+[2025-09-10T12:20:57.582Z] NovaBot WhatsApp client is ready
+[2025-09-10T12:20:57.936Z] Message from Zhak (6281717407674): itu dia sudah
+[2025-09-10T12:21:00.189Z] Sent message to NovaBot: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T12:21:00.216Z] Bot replied to Zhak: Maaf, anda belum mengerti maksud saya. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T12:21:38.391Z] Message from Zhak (6281717407674): detail layanan
+[2025-09-10T12:21:39.030Z] Bot replied to Zhak: Fitur utama NovaTix meliputi:
+1️⃣ Pemilihan tiket berbasis kursi (seat-based) yang intuitif.
+2️⃣ Int...
+[2025-09-10T12:21:39.115Z] Sent message to NovaBot: Fitur utama NovaTix meliputi:
+1️⃣ Pemilihan tiket berbasis kursi (seat-based) yang intuitif.
+2️⃣ Int...
+[2025-09-10T12:24:20.694Z] Unhandled rejection at [object Promise]: ProtocolError: Protocol error (Runtime.callFunctionOn): Target closed.
+[2025-09-10T12:24:32.570Z] NovaBot WhatsApp bot starting...
+[2025-09-10T12:24:39.754Z] NovaBot WhatsApp bot starting...
+[2025-09-10T12:25:33.157Z] WhatsApp authentication successful
+[2025-09-10T12:25:38.389Z] NovaBot WhatsApp client is ready
+[2025-09-10T12:25:38.761Z] Message from Zhak (6281717407674): apasih
+[2025-09-10T12:25:40.065Z] Sent message to NovaBot: Maaf, saya belum mengerti maksud Anda. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T12:25:40.150Z] Bot replied to Zhak: Maaf, saya belum mengerti maksud Anda. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T12:48:59.621Z] Message from Zhak (6281717407674): pricing
+[2025-09-10T12:49:00.187Z] Bot replied to Zhak: Kami menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T12:49:00.341Z] Sent message to NovaBot: Kami menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T13:21:05.427Z] Message from Dzaki Wismadi (6281809252706): halo
+[2025-09-10T13:21:06.201Z] Bot replied to Dzaki Wismadi: Halo! Saya NovaBot 🤖 dari NovaTix. Kami siap membantu Anda mengelola event dengan sistem ticketing ...
+[2025-09-10T13:21:06.289Z] Sent message to NovaBot: Halo! Saya NovaBot 🤖 dari NovaTix. Kami siap membantu Anda mengelola event dengan sistem ticketing ...
+[2025-09-10T13:22:32.339Z] Message from Dzaki Wismadi (6281809252706): berapa harganya
+[2025-09-10T13:22:33.107Z] Bot replied to Dzaki Wismadi: Maaf, saya belum mengerti maksud Anda. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T13:22:33.216Z] Sent message to NovaBot: Maaf, saya belum mengerti maksud Anda. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T13:22:38.830Z] Message from Dzaki Wismadi (6281809252706): berapa Harga
+[2025-09-10T13:22:39.631Z] Sent message to NovaBot: Kami menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T13:22:39.716Z] Bot replied to Dzaki Wismadi: Kami menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T13:27:58.495Z] Message from Dzaki Wismadi (6281809252706): halo
+[2025-09-10T13:27:59.012Z] Bot replied to Dzaki Wismadi: Halo! Saya NovaBot 🤖 dari NovaTix. Kami siap membantu Anda mengelola event dengan sistem ticketing ...
+[2025-09-10T13:27:59.177Z] Sent message to NovaBot: Halo! Saya NovaBot 🤖 dari NovaTix. Kami siap membantu Anda mengelola event dengan sistem ticketing ...
+[2025-09-10T13:28:14.535Z] Message from Dzaki Wismadi (6281809252706): apa saja fitur novatix?
+[2025-09-10T13:28:14.964Z] Bot replied to Dzaki Wismadi: NovaTix adalah platform ticketing yang mempermudah penyelenggara acara (EO), terutama untuk venue de...
+[2025-09-10T13:28:15.160Z] Sent message to NovaBot: NovaTix adalah platform ticketing yang mempermudah penyelenggara acara (EO), terutama untuk venue de...
+[2025-09-10T13:28:41.524Z] Message from Dzaki Wismadi (6281809252706): cara beli
+[2025-09-10T13:28:41.972Z] Bot replied to Dzaki Wismadi: 🛒 *Cara Pembelian Tiket:*
+1️⃣ Masuk dengan akun Gmail Anda.
+2️⃣ Buka detail event dan pilih kursi.
+...
+[2025-09-10T13:28:42.183Z] Sent message to NovaBot: 🛒 *Cara Pembelian Tiket:*
+1️⃣ Masuk dengan akun Gmail Anda.
+2️⃣ Buka detail event dan pilih kursi.
+...
+[2025-09-10T13:28:55.057Z] Message from Dzaki Wismadi (6281809252706): bagaimana dengan harga
+[2025-09-10T13:28:55.490Z] Bot replied to Dzaki Wismadi: Kami menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T13:28:55.625Z] Sent message to NovaBot: Kami menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T13:29:22.265Z] Message from Dzaki Wismadi (6281809252706): tiket ke event saya harganya  75rb
+[2025-09-10T13:29:22.951Z] Bot replied to Dzaki Wismadi: ✅ Harga tiket: Rp75
+
+🔢 Sekarang, berapa kapasitas venue acara Anda?
+
+Contoh: "500 orang" atau "kapa...
+[2025-09-10T13:29:23.088Z] Sent message to NovaBot: ✅ Harga tiket: Rp75
+
+🔢 Sekarang, berapa kapasitas venue acara Anda?
+
+Contoh: "500 orang" atau "kapa...
+[2025-09-10T13:29:59.280Z] Message from Dzaki Wismadi (6281809252706): tiket ke event saya harganya  Rp75000
+[2025-09-10T13:29:59.744Z] Bot replied to Dzaki Wismadi: ✅ Harga tiket: Rp75,000
+
+🔢 Sekarang, berapa kapasitas venue acara Anda?
+
+Contoh: "500 orang" atau "...
+[2025-09-10T13:29:59.919Z] Sent message to NovaBot: ✅ Harga tiket: Rp75,000
+
+🔢 Sekarang, berapa kapasitas venue acara Anda?
+
+Contoh: "500 orang" atau "...
+[2025-09-10T13:30:09.936Z] Message from Dzaki Wismadi (6281809252706): 360 orang
+[2025-09-10T13:30:11.056Z] Bot replied to Dzaki Wismadi: 🎯 **HASIL KALKULASI PRICING**
+
+💡 Input Anda:
+• Harga tiket: Rp75,000
+• Kapasitas venue: 360 tiket
+...
+[2025-09-10T13:30:11.209Z] Sent message to NovaBot: 🎯 **HASIL KALKULASI PRICING**
+
+💡 Input Anda:
+• Harga tiket: Rp75,000
+• Kapasitas venue: 360 tiket
+...
+[2025-09-10T13:30:33.455Z] Message from Dzaki Wismadi (6281809252706): cara set up event?
+[2025-09-10T13:30:33.890Z] Bot replied to Dzaki Wismadi: Maaf, saya belum mengerti maksud Anda. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T13:30:34.026Z] Sent message to NovaBot: Maaf, saya belum mengerti maksud Anda. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T13:30:51.277Z] Message from Dzaki Wismadi (6281809252706): tutorisl penggunaan
+[2025-09-10T13:30:52.054Z] Sent message to NovaBot: Maaf, saya belum mengerti maksud Anda. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T13:30:52.290Z] Bot replied to Dzaki Wismadi: Maaf, saya belum mengerti maksud Anda. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T13:30:58.491Z] Message from Dzaki Wismadi (6281809252706): tutorial penggunaan
+[2025-09-10T13:30:58.959Z] Bot replied to Dzaki Wismadi: Maaf, saya belum mengerti maksud Anda. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T13:30:59.084Z] Sent message to NovaBot: Maaf, saya belum mengerti maksud Anda. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T13:31:28.193Z] Message from Dzaki Wismadi (6281809252706): tutorial
+[2025-09-10T13:31:28.910Z] Bot replied to Dzaki Wismadi: Maaf, saya belum mengerti maksud Anda. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T13:31:29.007Z] Sent message to NovaBot: Maaf, saya belum mengerti maksud Anda. Bisa coba pertanyaan lain? 🤔
+
+Coba tanyakan tentang:
+• Fitur...
+[2025-09-10T13:31:34.622Z] Message from Dzaki Wismadi (6281809252706): pricing
+[2025-09-10T13:31:35.132Z] Bot replied to Dzaki Wismadi: Kami menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...
+[2025-09-10T13:31:35.235Z] Sent message to NovaBot: Kami menawarkan dua skema pricing utama:
+
+📊 **Skema Persentase** - Fee berdasarkan % dari harga tik...

@@ -27,7 +27,8 @@ const responses = [
     regex: /^(hi|halo|hai|hello|selamat|assalamualaikum|pagi|siang|sore|malam|kontak)/i,
     answer: "Halo! Saya NovaBot 🤖 dari NovaTix. Kami siap membantu Anda mengelola event dengan sistem ticketing yang mudah dan efisien. Apa yang bisa saya bantu hari ini?",
     type: "greeting",
-    resetContext: true
+    resetContext: true,
+    skipPronounReflection: true
   },
 
   // === Kategori 2: Informasi Umum ===
@@ -42,7 +43,8 @@ const responses = [
     regex: /\b(fitur|apa saja fitur|keunggulan|layanan|bisa apa)\b/i,
     answer: "Fitur utama NovaTix meliputi:\n1️⃣ Pemilihan tiket berbasis kursi (seat-based) yang intuitif.\n2️⃣ Integrasi dengan payment gateway untuk mempermudah transaksi.\n3️⃣ E-ticket verification dengan QR code unik agar check-in di hari-H lebih cepat.\n4️⃣ Dashboard analitik untuk data acara, transaksi, dan informasi pembeli.\n\nApakah Anda ingin mengetahui detail lebih lanjut dari salah satu fitur di atas?",
     type: "features",
-    resetContext: true
+    resetContext: true,
+    skipPronounReflection: true
   },
 
   // === Kategori 3: Pricing (Tanpa Angka) ===
@@ -50,7 +52,8 @@ const responses = [
     regex: /\b(harga|biaya|pricing|paket)\b(?!.*[\d.,]+)/i,
     answer: "Kami menawarkan dua skema pricing utama:\n\n📊 **Skema Persentase** - Fee berdasarkan % dari harga tiket\n💵 **Skema Flat Fee** - Fee tetap per tiket\n\nKedua skema dirancang fleksibel sesuai kebutuhan dan skala acara.\n\n💡 Untuk menghitung biaya yang tepat, saya butuh info:\n• Berapa harga tiket acara Anda?\n• Berapa kapasitas venue Anda?\n\nSilakan berikan informasi tersebut! 😊",
     type: "pricing-general",
-    setContext: "pricing-detail"
+    setContext: "pricing-detail",
+    skipPronounReflection: true
   },
 
   // === Kategori 4: Detail Fitur Spesifik ===
@@ -87,7 +90,8 @@ const responses = [
     regex: /\b(cara beli|beli tiket|pemesanan|pesan tiket|pembelian)\b/i,
     answer: "🛒 *Cara Pembelian Tiket:*\n1️⃣ Masuk dengan akun Gmail Anda.\n2️⃣ Buka detail event dan pilih kursi.\n3️⃣ Isi data yang dibutuhkan.\n4️⃣ Jika ingin membeli merchandise, klik *Browse All* lalu pilih jumlah.\n5️⃣ Klik *Add to Order* jika sudah selesai.\n6️⃣ Cek ulang total di *Price Summary*.\n7️⃣ Klik *Proceed Transaction* lalu scan QRIS untuk membayar.\n8️⃣ Setelah membayar, klik *Check Status*.\n\n👉 Lanjutkan dengan *setelah pembayaran* untuk tahapan berikutnya.",
     type: "tutorial-buying",
-    resetContext: true
+    resetContext: true,
+    skipPronounReflection: true
   },
 
   {
@@ -146,7 +150,8 @@ const responses = [
     regex: /.*/,
     answer: "Maaf, saya belum mengerti maksud Anda. Bisa coba pertanyaan lain? 🤔\n\nCoba tanyakan tentang:\n• Fitur NovaTix\n• Harga dan pricing\n• Detail layanan\n• Tutorial penggunaan\n• Atau ketik 'pricing' untuk menghitung biaya",
     type: "default",
-    resetContext: true
+    resetContext: true,
+    skipPronounReflection: true
   }
 ];
 
@@ -377,7 +382,10 @@ function getResponse(input) {
         return applyPronounReflection(answer);
       }
       
-      // Apply pronoun reflection to response
+      // Apply pronoun reflection to response (unless skipped)
+      if (response.skipPronounReflection) {
+        return response.answer;
+      }
       return applyPronounReflection(response.answer);
     }
   }

@@ -21,8 +21,16 @@ const client = new Client({
             '--no-first-run',
             '--no-zygote',
             '--single-process',
-            '--disable-gpu'
-        ]
+            '--disable-gpu',
+            '--disable-web-security',
+            '--disable-features=VizDisplayCompositor',
+            '--disable-background-networking',
+            '--disable-background-timer-throttling',
+            '--disable-renderer-backgrounding',
+            '--disable-backgrounding-occluded-windows',
+            '--disable-ipc-flooding-protection'
+        ],
+        // executablePath: '/usr/bin/google-chrome-stable' // Using bundled Chromium instead
     }
 });
 
@@ -76,6 +84,13 @@ client.on('auth_failure', (msg) => {
 client.on('disconnected', (reason) => {
     logMessage(`WhatsApp client disconnected: ${reason}`);
     console.log('Bot disconnected. Restarting...');
+    
+    // Auto-restart after 5 seconds
+    setTimeout(() => {
+        console.log('🔄 Attempting to restart WhatsApp client...');
+        logMessage('Attempting to restart WhatsApp client');
+        client.initialize();
+    }, 5000);
 });
 
 // Event: Message Received
@@ -90,6 +105,9 @@ client.on('message', async (message) => {
         // Skip if message is from status/broadcast
         if (chat.isGroup && chat.name === 'Status') return;
         if (message.broadcast) return;
+        
+        // Skip all group chat messages
+        if (chat.isGroup) return;
         
         // Skip if message is from bot itself
         if (message.fromMe) return;
