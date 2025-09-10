@@ -1,0 +1,10 @@
+[2024-01-15T10:30:00.000Z] NovaBot WhatsApp bot starting...
+[2024-01-15T10:30:01.123Z] QR Code generated. Scan with your WhatsApp mobile app:
+[2024-01-15T10:30:15.456Z] WhatsApp authentication successful
+[2024-01-15T10:30:16.789Z] NovaBot WhatsApp client is ready
+[2024-01-15T10:31:00.012Z] Message from John Doe (1234567890): halo novabot
+[2024-01-15T10:31:00.345Z] Bot replied to John Doe: Halo! Saya NovaBot dari NovaTix. Kami siap membantu Anda mengelola event...
+[2024-01-15T10:31:30.678Z] Message from Jane Smith (0987654321): fitur apa saja
+[2024-01-15T10:31:30.901Z] Bot replied to Jane Smith: Fitur utama NovaTix meliputi: Pemilihan tiket berbasis kursi...
+[2024-01-15T10:32:00.234Z] Message from John Doe (1234567890): harga 50000
+[2024-01-15T10:32:00.567Z] Bot replied to John Doe: Harga tiket: Rp50.000 Sekarang, berapa kapasitas venue acara Anda?

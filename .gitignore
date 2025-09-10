@@ -1,5 +1,5 @@
 node_modules/
-CLAUDE.md
+PROJECT.md
 
 # Environment files
 .env
@@ -11,9 +11,12 @@ CLAUDE.md
 .wwebjs_cache/
 
 # Logs
-logs/
-*.log
+# logs/
+# *.log
 
 # Screenshots and demo materials (optional)
 demo/
 screenshots/
+
+# VS Code settings
+.vscode/
